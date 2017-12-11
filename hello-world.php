@@ -7,5 +7,8 @@
 echo 'Hello world from Cloud9!';
 
 ?>
+<p>Dit is de eerste aanpassing van deze file. Hierna probeer ik 'git push'
+om te kijken of deze aanpassing wordt doorgegeven aan github. Hierna kan ik via 
+github desktop synchroniseren zodat ik alle aanpassingen ook lokaal - offline heb.</p>
 </body>
 </html>
